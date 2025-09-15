@@ -1,6 +1,6 @@
 # jakarta-dummy-resource-manager
 
-**Jakarta EE** version of Dummy Resource Manager (Dummy XA Resource) for WebSphere Liberty.
+**Jakarta EE** version of Dummy Resource Manager (i.e. Dummy XA Resource) for WebSphere Liberty.
 
 Please see the documentation for **[Java EE version](https://github.com/splendormy/dummy-resource-manager)** for detailed information.
 
@@ -17,4 +17,5 @@ Please see the documentation for **[Java EE version](https://github.com/splendor
 - [com.ibm.tx.jta.TransactionManagerFactory](https://www.ibm.com/docs/en/was-liberty/base?topic=SSEQTP_liberty/com.ibm.websphere.javadoc.liberty.doc/io.openliberty.transaction_1.1-javadoc/com/ibm/tx/jta/TransactionManagerFactory.html)
 
 - [com.ibm.tx.jta.ExtendedTransactionManager](https://www.ibm.com/docs/en/was-liberty/base?topic=SSEQTP_liberty/com.ibm.websphere.javadoc.liberty.doc/io.openliberty.transaction_1.1-javadoc/com/ibm/tx/jta/ExtendedTransactionManager.html)
+
 
