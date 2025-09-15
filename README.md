@@ -1,0 +1,1 @@
+# jakarta-dummy-resource-manager
